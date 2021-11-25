@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🎊 Support Channel 🎊', 'https://t.me/Loltage'),
-        Button.url('❤️ Owner ❤️', 'https://t.me/koliXsupport')
+        Button.url('🎊 Support Channel 🎊', 'https://t.me/TitaniumArmy_Support'),
+        Button.url('❤️ Owner ❤️', 'https://t.me/HARSHIT_XDD')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🎊 Support Channel 🎊', 'https://t.me/koliXsupport'),
-        Button.url('❤️ Owner ❤️', 'https://t.me/Loltage')
+        Button.url('🎊 Support Channel 🎊', 'https://t.me/TitaniumArmy_Support'),
+        Button.url('❤️ Owner ❤️', 'https://t.me/HARSHIT_XDD')
       ]
     )
   )
